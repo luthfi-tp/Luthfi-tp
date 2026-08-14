@@ -15,7 +15,3 @@ Hi, I’m Luthfi, a B.Tech Computer Science graduate and a tech enthusiast. I li
 
 
 
-
-# GitHub Activity:
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthfi-tp&theme=github-compact&hide_border=true)
